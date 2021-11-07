@@ -11,5 +11,11 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## Repositorio en GitHub
 
+[ReactJS-Calculator-App](https://github.com/kemesy07/ReactJS-Calculator-App).
+
+## Despliegue en Heroku
+
+[Deploy](https://calculadorakey.herokuapp.com).
 
